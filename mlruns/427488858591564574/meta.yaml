@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Mega-Pc/Freelance/CreditCardFraudDetection/mlruns/427488858591564574
+creation_time: 1759828860392
+experiment_id: '427488858591564574'
+last_update_time: 1759828860392
+lifecycle_stage: active
+name: CreditCard_Fraud_LightGBM
