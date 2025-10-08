@@ -16,12 +16,12 @@ This project implements a **fraud detection system** using machine learning, wit
 - **Real-time Alerts:**  
   Implemented **Slack notifications** for high-risk transactions, providing immediate alerts to relevant teams for rapid fraud review.  
 
-  ![Slack Notification Screenshot](C:/Users/Mega-Pc/Freelance/CreditCardFraudDetection/images/slack_notif.png)
+  ![Slack Notification Screenshot](https://github.com/NadaManai/Credit-Card-Fraud-Detection/blob/main/images/slack_notif.PNG)
 
 - **Experiment Tracking:**  
   Tracked all experiments, metrics, and models using **MLflow**, ensuring reproducibility and professional experiment management.  
 
-  ![MLflow Interface Screenshot](C:/Users/Mega-Pc/Freelance/CreditCardFraudDetection/images/mlflow.png)
+  ![MLflow Interface Screenshot](https://github.com/NadaManai/Credit-Card-Fraud-Detection/blob/main/images/mlflow.PNG)
 
 ## Usage
 
